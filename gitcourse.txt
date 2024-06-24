@@ -1,0 +1,9 @@
+git add <file name > -- this is get the file stagging area
+git commit -m "my first commit" --"--comment--" for your change 
+git diff -- to check the changes in the file
+git log -- to check the history of the commits
+git init - to initiate the repository
+git branch -m main 
+git remote add origin git@github.com:kanchisekhar5324/git_course.git --ssh linkcopy
+git push -u origin main -- branch pushing the file to the repository
+git checkout -b feature1
